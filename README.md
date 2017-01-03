@@ -1,4 +1,4 @@
-> Repository is move to [Saka7/sunbird](https://github.com/Saka7/sunbird)
+Repository has been moved to [Saka7/sunbird](https://github.com/Saka7/sunbird)
 
 # Лабораторна робота №6
 
